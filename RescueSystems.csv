@@ -1,0 +1,11 @@
+Nation,Name,AirPortable,MOSHIP,MaxDepth,MaxSortieSize,TUP,Notes
+AUS,LR5,true,false,450,16,5,N/A
+CHI,LR-7,false,true,500,18,1,N/A
+NATO,NSRS,true,false,610,15,6,N/A
+ITA,SRV-300,false,Anteo,300,12,5,N/A
+JAP,DSRV,false,Chiyoda/Chihaya,610,12,5,N/A
+KOR,DSAR-5,false,Chung Hae Jin, 500, 16,5,N/A
+RUS,AS,false,Various,1000,10,6,N/A
+SIN,DSAR-6,false,Swift Rescue,500,17,5,N/A
+SWE,URF,true,HSwMSBelos/VOO,450,35,5,TUP with Belos only
+USA,SRDRS,true,VOO,610,16,6,N/A
